@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "solve():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "f">
+            </PersistentString>
+            <PersistentString
+               value = "b">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "b">
+            </PersistentString>
+            <PersistentString
+               value = "f">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "front():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dequeue[b]">
+            </PersistentString>
+            <PersistentString
+               value = "eequeue[f]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
